@@ -240,4 +240,4 @@ This repository serves as the official landing page for EXPStudio Audio Editor. 
 **Get the most recent version of EXPStudio Audio Editor today!**
 
 ---
-**Last updated:** 2026-09-11 19:25:51 UTC
+**Last updated:** 2026-09-11 22:12:27 UTC
